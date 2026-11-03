@@ -37,7 +37,7 @@
     <version>1.0.24</version>
     <configuration>
         <target>android</target>
-        <mainClass>com.mycompany.nomina.App</mainClass>
+        <mainClass>com.mycompany.tiendita.App</mainClass>
         <!-- Obliga a incluir los archivos de interfaz e imágenes en el APK -->
         <resourcesList>
          <list>.\\.fxml$</list>
@@ -47,8 +47,8 @@
 </resourcesList>
         <!-- Permite que JavaFX inyecte código en tus controladores -->
         <reflectionList>
-            <list>com.mycompany.nomina.PrimaryController</list>
-            <list>com.mycompany.nomina.SecondaryController</list>
+            <list>com.mycompany.tiendita.PrimaryController</list>
+            <list>com.mycompany.tiendita.SecondaryController</list>
         </reflectionList>
     </configuration>
 </plugin>
