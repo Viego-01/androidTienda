@@ -1,0 +1,5 @@
+com\mycompany\tiendita\App.class
+com\mycompany\tiendita\Producto.class
+module-info.class
+com\mycompany\tiendita\PrimaryController.class
+com\mycompany\tiendita\SecondaryController.class
